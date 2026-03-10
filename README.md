@@ -28,3 +28,5 @@ It does not attempt authentication bypass or active exploitation.
 ## License
 
 See LICENSE file.
+
+© Tarek Ramadan
