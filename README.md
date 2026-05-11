@@ -31,7 +31,6 @@ See LICENSE file.
 
 ## Contact
 For further contributions or inquiries, please visit:  
-https://users.encs.concordia.ca/~t_ramada/
-
+tarekramadan.com
 
 © Tarek Ramadan
